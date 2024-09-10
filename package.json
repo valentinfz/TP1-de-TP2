@@ -1,0 +1,12 @@
+{
+  "name": "tp1-de-tp2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valentín Ezequiel Nuñez",
+  "license": "ISC",
+  "description": "TP1 de la materia Taller de Programacion 2"
+}
